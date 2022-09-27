@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ijdeRTq+rNppr6xVG7DiGZmddEYSxnaOGJ9eDYI17JJ4QGcYpmFI9pDrf6Ytddyo+Cs5H8qqeigmTy6knFcIQ==",
+  "dgSpecHash": "COP0gB/2UGC81EEVYEWxZUb1JU3rKKbs+l/YuVHnDJDRIP3nsbZeuRq0p5cImLDg+Mm9HAkxjCYJRlFftoK5xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\ProductAPIDemos3.1.csproj",
+  "projectFilePath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\ProductAPIDemos3.1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alper\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\alper\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

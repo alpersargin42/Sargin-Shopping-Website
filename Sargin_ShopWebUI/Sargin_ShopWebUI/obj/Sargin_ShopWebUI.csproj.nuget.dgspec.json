@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\Sargin_ShopWebUI\\Sargin_ShopWebUI.csproj": {}
+    "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\Sargin_ShopWebUI\\Sargin_ShopWebUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\BussinessLayer\\BussinessLayer.csproj": {
+    "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\BussinessLayer\\BussinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\BussinessLayer\\BussinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\BussinessLayer\\BussinessLayer.csproj",
         "projectName": "BussinessLayer",
-        "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\BussinessLayer\\BussinessLayer.csproj",
+        "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\BussinessLayer\\BussinessLayer.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\BussinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\BussinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -75,18 +75,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -103,8 +103,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -175,18 +175,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -243,18 +243,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\ProductAPIDemos3.1.csproj": {
+    "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\ProductAPIDemos3.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\ProductAPIDemos3.1.csproj",
+        "projectUniqueName": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\ProductAPIDemos3.1.csproj",
         "projectName": "ProductAPIDemos3.1",
-        "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\ProductAPIDemos3.1.csproj",
+        "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\ProductAPIDemos3.1.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\obj\\",
+        "outputPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -324,18 +324,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\Sargin_ShopWebUI\\Sargin_ShopWebUI.csproj": {
+    "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\Sargin_ShopWebUI\\Sargin_ShopWebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\Sargin_ShopWebUI\\Sargin_ShopWebUI.csproj",
+        "projectUniqueName": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\Sargin_ShopWebUI\\Sargin_ShopWebUI.csproj",
         "projectName": "Sargin_ShopWebUI",
-        "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\Sargin_ShopWebUI\\Sargin_ShopWebUI.csproj",
+        "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\Sargin_ShopWebUI\\Sargin_ShopWebUI.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\Sargin_ShopWebUI\\obj\\",
+        "outputPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\Sargin_ShopWebUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -352,17 +352,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\BussinessLayer\\BussinessLayer.csproj": {
-                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\BussinessLayer\\BussinessLayer.csproj"
+              "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\BussinessLayer\\BussinessLayer.csproj": {
+                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\BussinessLayer\\BussinessLayer.csproj"
               },
-              "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj"
               },
-              "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\ProductAPIDemos3.1.csproj": {
-                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\ProductAPIDemos3.1.csproj"
+              "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\ProductAPIDemos3.1.csproj": {
+                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\ProductAPIDemos3.1.csproj"
               }
             }
           }
@@ -448,7 +448,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     }

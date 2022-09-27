@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9c3j9JvWRU6AYcVEhcigkMw7bSVxOkO/mV5DGFVU046xIls14YYX6FgaG2NAAtT41RA3Oxinr3bGih90klbXyw==",
+  "dgSpecHash": "kaQnfqTMxYnF2DCflZVX2kKIwVex+UUSceprtpqp17IlN0ehK71f5qs0fCgMkstbeEcjFwMd6oJLxZbxhsE6Ow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\Sargin_ShopWebUI\\Sargin_ShopWebUI.csproj",
+  "projectFilePath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\Sargin_ShopWebUI\\Sargin_ShopWebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alper\\.nuget\\packages\\closedxml\\0.96.0\\closedxml.0.96.0.nupkg.sha512",
     "C:\\Users\\alper\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",

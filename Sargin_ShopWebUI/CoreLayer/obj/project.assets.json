@@ -348,11 +348,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\CoreLayer\\CoreLayer.csproj",
+      "projectUniqueName": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\CoreLayer\\CoreLayer.csproj",
       "projectName": "CoreLayer",
-      "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\CoreLayer\\CoreLayer.csproj",
+      "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\CoreLayer\\CoreLayer.csproj",
       "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\CoreLayer\\obj\\",
+      "outputPath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\CoreLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -401,7 +401,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
       }
     }
   }

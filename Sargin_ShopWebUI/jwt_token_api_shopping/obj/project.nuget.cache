@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mTvkVPesjEzD4bYYl7ME8sqJCem94O8CkpV6YfBcZkiUwzFTrKFwN0NhD4+SZYuTk+C7sjyDigkLoAg0+BPuHw==",
+  "dgSpecHash": "IOiJWx1YbEH2baM8RNaV3TWExbqQI1o7MVvR7Gtzw9pVmCce6I6+N/SvYWaVMyF9A6SeX/VT3J6ikd6KUzrksg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\jwt_token_api_shopping\\jwt_token_api_shopping.csproj",
+  "projectFilePath": "C:\\Users\\alper\\Documents\\GitHub\\Sargin-Shopping-Website\\Sargin_ShopWebUI\\jwt_token_api_shopping\\jwt_token_api_shopping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alper\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.27\\microsoft.aspnetcore.authentication.jwtbearer.3.1.27.nupkg.sha512",
     "C:\\Users\\alper\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
