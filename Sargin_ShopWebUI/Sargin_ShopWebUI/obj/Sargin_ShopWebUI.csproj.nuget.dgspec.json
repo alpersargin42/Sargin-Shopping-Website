@@ -1,0 +1,456 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\Sargin_ShopWebUI\\Sargin_ShopWebUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\BussinessLayer\\BussinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\BussinessLayer\\BussinessLayer.csproj",
+        "projectName": "BussinessLayer",
+        "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\BussinessLayer\\BussinessLayer.csproj",
+        "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\BussinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj"
+              },
+              "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.96.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.96.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.27, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.27, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj",
+        "projectName": "EntityLayer",
+        "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.96.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.27, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\ProductAPIDemos3.1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\ProductAPIDemos3.1.csproj",
+        "projectName": "ProductAPIDemos3.1",
+        "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\ProductAPIDemos3.1.csproj",
+        "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.27, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\Sargin_ShopWebUI\\Sargin_ShopWebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\Sargin_ShopWebUI\\Sargin_ShopWebUI.csproj",
+        "projectName": "Sargin_ShopWebUI",
+        "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\Sargin_ShopWebUI\\Sargin_ShopWebUI.csproj",
+        "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\Sargin_ShopWebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\BussinessLayer\\BussinessLayer.csproj": {
+                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\BussinessLayer\\BussinessLayer.csproj"
+              },
+              "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\DataAccessLayer\\DataAccessLayer.csproj"
+              },
+              "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\EntityLayer\\EntityLayer.csproj"
+              },
+              "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\ProductAPIDemos3.1.csproj": {
+                "projectPath": "C:\\Users\\alper\\Documents\\GitHub\\primefor-2022-staj-alpersargin42\\Sargin_ShopWebUI\\ProductAPIDemos3.1\\ProductAPIDemos3.1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.96.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.27, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.27, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "X.PagedList": {
+              "target": "Package",
+              "version": "[8.4.3, )"
+            },
+            "X.PagedList.Mvc.Core": {
+              "target": "Package",
+              "version": "[8.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

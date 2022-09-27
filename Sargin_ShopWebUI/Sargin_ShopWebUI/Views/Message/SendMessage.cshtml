@@ -1,0 +1,32 @@
+﻿@model EntityLayer.Concrete.Message2
+@{
+    ViewData["Title"] = "SendMessage";
+    Layout = "~/Views/Shared/AdvertiserLayout.cshtml";
+}
+
+
+<h1>Yeni Teklif Ekleme</h1>
+<br />
+@using (Html.BeginForm("SendMessage", "Message", FormMethod.Post))
+{
+    @Html.Label("Alıcı")
+    @*@Html.TextBoxFor(x => x.ReceiverUser, new { @class = "form-control" })*@
+    <input type="text" class="form-control" />
+    <br />
+    @Html.Label("Konu")
+    @Html.TextAreaFor(x => x.Subject, new { @class = "form-control" })
+    <br />
+    <div class="slidecontainer">
+        <label>Teklif Oranı</label>
+        <input type="range" min="1" max="100" value="50" class="slider form-control" id="myRange">
+        <label>Teklif Miktarı</label>
+        <input type="number" class="form-control"/>
+
+    </div>
+    @Html.Label("Mesajınız")
+    @Html.TextAreaFor(x => x.MessageDetails, new { @class = "form-control",@placeholder="Hangi Ürüne Ne Kadar Teklif Ettiğinizi Detaylıca Yazınız.Satıcı Ekranında bu mesaj gözükecektir."})
+    <br/>
+    <button class="btn btn-gradient-info">Yeni Teklif Oluştur</button>
+
+}
+

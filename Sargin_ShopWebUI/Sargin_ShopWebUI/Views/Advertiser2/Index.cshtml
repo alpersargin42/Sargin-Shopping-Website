@@ -1,0 +1,120 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1>Satıcı Ajax İşlemleri</h1>
+<br />
+<button type="button" id="btngetlist" class="btn btn-outline-primary">Satıcı Listesi</button>
+<button type="button" id="btngetbyid" class="btn btn-outline-success">Satıcı Getir</button>
+<button type="button" id="btnaddadvertiser" class="btn btn-outline-info">Satıcı Ekle</button>
+<button type="button" id="btndeleteadvertiser" class="btn btn-outline-danger">Satıcı Sil</button>
+<button type="button" id="btnupdateadvertiser" class="btn btn-outline-warning">Satıcı Güncelle</button>
+
+<br />
+<br />
+<div id="advertiserlist">
+    Buraya satıcılar gelecek
+</div><br/>
+<div id="advertiserget">
+    Buraya 1 satıcı gelecek.
+</div>
+<div>
+    <input type="text" id="aid" placeholder="Satıcı id" class="form-control"/>
+</div>
+<br/>
+<div>
+    <input type="text" class="form-control" id="txtAdvertiserid" placeholder="Satıcı id" />
+    <input type="text" class="form-control" id="txtAdvertisername" placeholder="Satıcı Adı" />
+</div>
+<div>
+    <input type="text" class="form-control" id="txtid" placeholder="Silinecek Satıcı ID" />
+</div>
+<br/>
+<input type="text" class="form-control" id="txtid1" placeholder="Güncellenecek Satıcı ID" />
+<input type="text" class="form-control" id="txtadvername1" placeholder="Güncellenecek Satıcı İsmi" />
+
+
+@section scripts
+{
+    <script>
+        $("#btngetlist").click(function() {
+            $.ajax({
+                contentType: "application/json",
+                dataType: "json",
+                type: "Get",
+                url: "/Advertiser2/AdvertiserListt",
+                success: function(func) {
+                    let w = jQuery.parseJSON(func);
+                    console.log(w);
+                    let tablehtml = "<table class=table table-bordered> <tr><th> Yazar ID</th><th> Yazar Adi </th> </tr>";
+                    $.each(w,
+                        (index, value) => {
+                            tablehtml += `<tr><td>${value.Id}</td> <td>${value.Name}</td></tr>`;
+                        });
+                    tablehtml += "</table>";
+                    $("#advertiserlist").html(tablehtml);
+                }
+            });
+        });
+        $("#btngetbyid").click(x => {
+            let id = $("#aid").val();
+            $.ajax({
+                contentType: "application/json",
+                dataType: "json",
+                type: "Get",
+                url: "/Advertiser2/GetAdvertiserByID",
+                data: { aid: id },
+                success: function(fuc) {
+                    let w = jQuery.parseJSON(fuc);
+                    console.log(fuc);
+
+                    let getvalue = `<table class=table table-bordered> <tr><th> Yazar ID</th><th> Yazar Adı </th> </tr><tr><td>${w.Id}</td> <td>${w.Name}</td></tr>`;
+                    $("#advertiserget").html(getvalue);
+                }
+            });
+
+        });
+        $("#btnaddadvertiser").click(function() {
+            let adver = {
+                Id: $("#txtAdvertiserid").val(),
+                Name: $("#txtAdvertisername").val()
+            };
+            $.ajax({
+                type: "Post",
+                url: "/Advertiser2/AddAdvertiser",
+                data:adver,
+                success: function (func) {
+                    let result = jQuery.parseJSON(func);
+                    alert("Yazar Ekleme Başarılı!");
+                }
+            });
+        });
+        $("#btndeleteadvertiser").click(x => {
+            let id = $("#txtid").val();
+            $.ajax({
+                url: "/Advertiser2/DeleteAdvertiser/"+id,
+                type: "post",
+                dataType: "json",
+                success: function (func) {
+                    alert("Yazar Silme Başarılı!");
+                }
+            });
+        });
+        $("#btnupdateadvertiser").click(function() {
+            let advertiser = {
+                Id: $("#txtid1").val(),
+                Name: $("#txtadvername1").val()
+            };
+            $.ajax({
+                type: "Post",
+                url: "/Advertiser2/UpdateAdvertiser",
+                data: advertiser,
+                success: function (funk) {
+                    alert("Güncelleme yapıldı.");
+                }
+            });
+        });
+    </script>
+}

@@ -1,0 +1,20 @@
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.deps.json
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfo.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.deps.json
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfo.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.pdb

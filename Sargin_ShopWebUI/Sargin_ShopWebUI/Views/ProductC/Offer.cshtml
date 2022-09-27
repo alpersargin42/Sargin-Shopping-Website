@@ -1,0 +1,43 @@
+﻿@model IEnumerable<EntityLayer.Concrete.Pruduct>
+@{
+    ViewData["Title"] = "Offer";
+    Layout = "~/Views/Shared/UserLayout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="zxx">
+
+<body>
+    <section class="banner-bottom">
+        <div class="container">
+            <div class="row">
+                <!--left-->
+                <div class="col-lg-8 left-blog-info-w3layouts-agileits text-left">
+                    @foreach (var item in Model)
+                    {
+                        <div class="blog-grid-top">
+                            <div class="b-grid-top">
+                                <div class="blog_info_left_grid">
+                                    <a href="/ProductC/Index">
+                                        <img src="@item.ProductImage" class="img-fluid" alt="">
+                                    </a>
+                                </div>
+                            </div>
+
+                            <h3>
+                                <a href="/ProductC/Index">@item.ProductTitle </a>
+                            </h3>
+                            <p>@item.ProductContent</p>
+                            <a href="/ProductC/Index" class="btn btn-primary read-m">Alışverişe devam et(Anasayfaya Dön)</a>
+                            <a href="/Message/SendMessage" class="btn btn-primary read-m">Teklif Ver</a>
+                            <a href="/ProductC/SuccessSend" class="btn btn-primary read-m">@item.ProductPrice ₺</a>
+                        </div>
+                    }
+                </div>
+            </div>
+            </div>
+    </section>
+</body>
+
+</html>
+
+

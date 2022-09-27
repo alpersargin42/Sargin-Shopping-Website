@@ -1,0 +1,52 @@
+﻿@model Sargin_ShopWebUI.Models.AddProfileImage
+@{
+    ViewData["Title"] = "AdvertiserAdd";
+    Layout = "~/Views/Shared/AdvertiserLayout.cshtml";
+}
+
+<form class="form-group" method="post" enctype="multipart/form-data">
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Satıcı Düzenleme Paneli</h4><br />
+                @Html.HiddenFor(x => x.AdvertiserID, new { @class = "form-control" })
+                <div class="forms-sample">
+                    <div class="form-group">
+                        <label for="exampleInputName1">İsim Soyisim</label>
+                        @Html.TextBoxFor(x => x.AdvertiserName, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputEmail3">Email Adresi</label>
+                        @Html.TextBoxFor(x => x.AdvertiserMail, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword4">Şifre</label>
+                        @Html.PasswordFor(x => x.AdvertiserPassword, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.AdvertiserPassword)
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword5">Şifre Tekrar</label>
+                        @Html.PasswordFor(x => x.AdvertiserPassword1, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.AdvertiserPassword1)
+                    </div>
+                    <div class="form-group">
+                        <label for="AdvertiserStatus">Status_</label>
+                        <span style="font-size:x-small">(Aktif->True , Pasif->False yazınız.)</span>
+                        @Html.TextBoxFor(x => x.AdvertiserStatus, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        <label>Resim Seçiniz</label>
+                        <input type="file" name="AdvertiserImage"/>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleTextarea">Satıcı Hakkında</label>
+                        @Html.TextAreaFor(x => x.AdvertiserAbout, 10, 3, new { @class = "form-control" })
+                    </div>
+                    <button type="submit" class="btn btn-gradient-info mr-2">Kaydet</button>
+                    <button class="btn btn-gradient-warning">İptal Et</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+

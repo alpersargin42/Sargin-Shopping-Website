@@ -1,0 +1,39 @@
+﻿@model EntityLayer.Concrete.Pruduct
+@{
+    ViewData["Title"] = "EditProduct";
+    Layout = "~/Views/Shared/AdvertiserLayout.cshtml";
+}
+
+<h1>Ürün Düzenleme Sayfası</h1>
+@using (Html.BeginForm("EditProduct", "ProductC", FormMethod.Post))
+{
+    @Html.Label("Ürün ID")
+    @Html.TextBoxFor(x => x.ProductID, new { @class = "form-control" })
+    <br />
+    @Html.Label("Ürün Başlığı")
+    @Html.TextBoxFor(x => x.ProductTitle, new { @class = "form-control" })
+    <br />
+    @Html.Label("Ürün Fiyatı")
+    @Html.TextBoxFor(x => x.ProductPrice, new { @class = "form-control" })
+    <br />
+    @Html.Label("Ürün Fotoğrafı URL")
+    @Html.TextBoxFor(x => x.ProductImage, new { @class = "form-control" })
+    <br />
+    @Html.Label("Ürün Rengi")
+    @Html.TextBoxFor(x => x.ProductThumbnailImage, new { @class = "form-control" })
+    <br />
+    @Html.Label("Ürün Markası")
+    @Html.TextBoxFor(x => x.Marka, new { @class = "form-control" })
+    <br />
+    @Html.Label("Kategori")
+    @Html.DropDownListFor(x => x.CategoryID, (List<SelectListItem>)ViewBag.cv, new { @class = "form-control" })
+    <br />
+    @Html.Label("Teklif Ver")
+    @Html.TextBoxFor(x => x.ProductOffer, new { @class = "form-control", @placeholder = "Teklif için True yazınız." })
+    <br />
+    @Html.Label("Ürün İçeriği")
+    @Html.TextAreaFor(x => x.ProductContent, 10, 3, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-gradient-success">Güncelle</button>
+}
+

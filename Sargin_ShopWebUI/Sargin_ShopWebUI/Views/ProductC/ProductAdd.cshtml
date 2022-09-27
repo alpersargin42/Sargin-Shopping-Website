@@ -1,0 +1,42 @@
+﻿@model EntityLayer.Concrete.Pruduct
+@{
+    ViewData["Title"] = "ProductAdd";
+    Layout = "~/Views/Shared/AdvertiserLayout.cshtml";
+}
+
+<h1>Yeni Ürün Ekleme</h1>
+<br />
+@using (Html.BeginForm("ProductAdd", "ProductC", FormMethod.Post))
+{
+    @Html.Label("Ürün Başlığı")
+    @Html.TextBoxFor(x => x.ProductTitle, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.ProductTitle)
+    <br />
+    @Html.Label("Ürün Görseli")
+    @Html.TextBoxFor(x => x.ProductImage, new { @class = "form-control", @placeholder = "Maksimum 400kb değerinde görsel ekleyebilirsiniz.(png/jpg/jpeg)" })
+    <button class="form-control btn btn-gradient-info">Resim Yükle</button>
+    @Html.ValidationMessageFor(x => x.ProductImage)
+    <br />
+    @Html.Label("Ürün Rengi")
+    @Html.TextBoxFor(x => x.ProductThumbnailImage, new { @class = "form-control" })
+    <br />
+    @Html.Label("Kategori")
+    @Html.DropDownListFor(x => x.CategoryID, (List<SelectListItem>)ViewBag.cv, new { @class = "form-control" })
+    <br />
+    @Html.Label("Ürün İçeriği")
+    @Html.TextAreaFor(x => x.ProductContent, 10, 3, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.ProductContent)
+    <br />
+    @Html.Label("Ürün Fiyatı")
+    @Html.TextBoxFor(x => x.ProductPrice, new { @class = "form-control", @type = "number" })
+    @Html.ValidationMessageFor(x => x.ProductPrice)
+    <br />
+    @Html.Label("Teklif Ver")
+    @Html.TextBoxFor(x => x.ProductOffer, new { @class = "form-control", @placeholder = "Teklif için True yazınız." })
+    <br />
+    @Html.Label("Marka")
+    @Html.TextBoxFor(x => x.Marka, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-gradient-info">Yeni Ürün Oluştur</button>
+
+}

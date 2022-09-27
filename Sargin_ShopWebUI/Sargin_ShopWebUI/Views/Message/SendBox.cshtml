@@ -1,0 +1,33 @@
+﻿@using EntityLayer.Concrete
+@model List<Message2>
+@{
+    ViewData["Title"] = "SendBox";
+    Layout = "~/Views/Shared/AdvertiserLayout.cshtml";
+}
+
+<h1>Giden Kutusu</h1>
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Konu</th>
+        <th>Alıcı</th>
+        <th>Tarih</th>
+        <th>Teklifi Aç</th>
+
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.MessageID</td>
+            <td>@item.Subject</td>
+            <td>@item.ReceiverUser.AdvertiserName</td>
+            <td>@(((DateTime)item.MessageDate).ToString("dd-MMM-yyyy"))</td>
+
+            <td><a href="/Message/MessageDetails2/@item.MessageID" class="btn btn-gradient-warning">Teklifi Aç</a></td>
+        </tr>
+    }
+</table>
+<a href="/Message/SendMessage" class="btn btn-gradient-primary">Yeni Teklif Ekle</a>
+
+
+

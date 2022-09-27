@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sargin_ShopWebUI", "Sargin_ShopWebUI\Sargin_ShopWebUI.csproj", "{67DBBA4E-75F1-4FF8-992C-7FF99D18569A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{E6D21BD1-A761-4267-B021-2B67E282CA4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BussinessLayer", "BussinessLayer\BussinessLayer.csproj", "{E40776F9-10AF-4A78-A3C1-ED416AB6CA12}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreLayer", "CoreLayer\CoreLayer.csproj", "{16FF7FB8-E168-467C-9107-C41A5B083CC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{7FE35EB8-A0AD-4063-A4DD-84FBBF7EC44D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductAPIDemos3.1", "ProductAPIDemos3.1\ProductAPIDemos3.1.csproj", "{6F036A17-F5F0-4294-885E-7C2E2DB45FF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jwt_token_api_shopping", "jwt_token_api_shopping\jwt_token_api_shopping.csproj", "{A90AC916-CC3E-4850-BBCC-379A39FF9F89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Beni Oku", "Beni Oku", "{56874993-37B5-45CD-937A-94A84CBEC52E}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67DBBA4E-75F1-4FF8-992C-7FF99D18569A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DBBA4E-75F1-4FF8-992C-7FF99D18569A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DBBA4E-75F1-4FF8-992C-7FF99D18569A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DBBA4E-75F1-4FF8-992C-7FF99D18569A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6D21BD1-A761-4267-B021-2B67E282CA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D21BD1-A761-4267-B021-2B67E282CA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D21BD1-A761-4267-B021-2B67E282CA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D21BD1-A761-4267-B021-2B67E282CA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E40776F9-10AF-4A78-A3C1-ED416AB6CA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40776F9-10AF-4A78-A3C1-ED416AB6CA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40776F9-10AF-4A78-A3C1-ED416AB6CA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40776F9-10AF-4A78-A3C1-ED416AB6CA12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16FF7FB8-E168-467C-9107-C41A5B083CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16FF7FB8-E168-467C-9107-C41A5B083CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16FF7FB8-E168-467C-9107-C41A5B083CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16FF7FB8-E168-467C-9107-C41A5B083CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE35EB8-A0AD-4063-A4DD-84FBBF7EC44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE35EB8-A0AD-4063-A4DD-84FBBF7EC44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE35EB8-A0AD-4063-A4DD-84FBBF7EC44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE35EB8-A0AD-4063-A4DD-84FBBF7EC44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F036A17-F5F0-4294-885E-7C2E2DB45FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F036A17-F5F0-4294-885E-7C2E2DB45FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F036A17-F5F0-4294-885E-7C2E2DB45FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F036A17-F5F0-4294-885E-7C2E2DB45FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A90AC916-CC3E-4850-BBCC-379A39FF9F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90AC916-CC3E-4850-BBCC-379A39FF9F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90AC916-CC3E-4850-BBCC-379A39FF9F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90AC916-CC3E-4850-BBCC-379A39FF9F89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F886B3E-4CA7-4560-8FAC-2D2C1092DFEB}
+	EndGlobalSection
+EndGlobal

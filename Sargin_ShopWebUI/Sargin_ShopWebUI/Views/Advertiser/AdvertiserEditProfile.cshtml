@@ -1,0 +1,43 @@
+﻿@model EntityLayer.Concrete.AppUser
+@{
+    ViewData["Title"] = "AdvertiserEditProfile";
+    Layout = "~/Views/Shared/AdvertiserLayout.cshtml";
+}
+
+@using (Html.BeginForm("AdvertiserEditProfile", "Advertiser", FormMethod.Post))
+{
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Satıcı Düzenleme Paneli</h4><br/>
+            @Html.HiddenFor(x=>x.Id,new{@class="form-control"})
+            <form class="forms-sample">
+                <div class="form-group">
+                    <label for="exampleInputName1">İsim Soyisim</label>
+                    @Html.TextBoxFor(x => x.NameSurname, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail3">Email Adresi</label>
+                    @Html.TextBoxFor(x => x.Email, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Şifre</label>
+                    @Html.PasswordFor(x => x.PasswordHash, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(x => x.PasswordHash)
+                </div>
+                @*<div class="form-group">
+                    <label>Resim Seçiniz</label>
+                    <input type="file" name="img[]" class="file-upload-default">
+                    <div class="input-group col-xs-12">
+                        <input type="text" class="form-control file-upload-info" disabled placeholder="Upload Image">
+                        <span class="input-group-append">
+                            <button class="file-upload-browse btn btn-gradient-info" type="button">Yükle</button>
+                        </span>
+                    </div>*@
+                <button type="submit" class="btn btn-gradient-info mr-2">Güncelle</button>
+                <button class="btn btn-gradient-warning">İptal Et</button>
+            </form>
+        </div>
+    </div>
+</div>
+}

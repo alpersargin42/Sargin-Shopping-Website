@@ -1,0 +1,29 @@
+﻿@using EntityLayer.Concrete
+@model List<Pruduct>
+<div class="tech-btm">
+    <h4>Satıcının Diğer Ürünleri</h4>
+    @foreach (var item in Model)
+    {
+        <div class="blog-grids row mb-3">
+            <div class="col-md-5 blog-grid-left">
+                <a href="#">
+                    <img src="@item.ProductImage" class="img-fluid" alt="">
+                </a>
+            </div>
+            <div class="col-md-7 blog-grid-right">
+
+                <h5>
+                    <a href="#">@item.ProductTitle </a>
+                </h5>
+                <div class="sub-meta">
+                    <span>Kategori ID : @item.CategoryID</span><br/>
+                     <span>
+                         @item.ProductPrice <i class="fas fa-lira-sign"></i>
+                     </span>
+                </div>
+            </div>
+
+        </div>
+    }
+    
+</div>

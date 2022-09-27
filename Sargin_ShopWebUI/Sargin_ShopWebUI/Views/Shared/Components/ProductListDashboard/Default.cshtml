@@ -1,0 +1,53 @@
+﻿@using EntityLayer.Concrete
+@model List<Pruduct>
+    <link href="~/CoreBlogTema/web/css/fontawesome-all.css" rel="stylesheet">
+<div class="row">
+    <div class="col-12 grid-margin">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Tüm Ürünler</h4>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th> Ürün Adı </th>
+                                <th> Teklif </th>
+                                <th> Kategorisi </th>
+                                <th> Ürünün Rengi </th>
+                                <th> Ürün Fiyatı </th>
+                                <th> Detaylar </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    <img src="@item.ProductImage" class="mr-2"
+                                         alt="image"> @item.ProductTitle
+                                    </td>
+                                    <td> Teklif : @item.ProductOffer </td>
+                                    <td>
+                                        <label class="badge badge-gradient-warning">@item.Category.CategoryName</label>
+                                    </td>
+                                    <td>
+                                        <label>@item.ProductThumbnailImage</label>
+                                    </td>
+                                <td>
+                                    <label class="btn-gradient-success">@item.ProductPrice <i class="fas fa-lira-sign"></i></label>
+                                </td>
+                                <td>
+                                    <label> 
+                                        <a href="/ProductC/ProductReadAll/@item.ProductID" class="btn btn-github">Detaylar</a>
+                                  </label>
+                                  </td>
+                                </tr>
+                        }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+ 

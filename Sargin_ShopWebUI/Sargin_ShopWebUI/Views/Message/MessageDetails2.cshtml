@@ -1,0 +1,19 @@
+﻿@model EntityLayer.Concrete.Message2
+@{
+    ViewData["Title"] = "MessageDetails2";
+    Layout = "~/Views/Shared/AdvertiserLayout.cshtml";
+}
+
+<h1>Teklif Detay Sayfası</h1>
+
+@Html.Label("Teklif ID")
+@Html.TextBoxFor(x => x.MessageID, new { @class = "form-control", @disabled = "disabled" })
+<br />
+@Html.Label("Teklif Başlığı")
+@Html.TextBoxFor(x => x.Subject, new { @class = "form-control", @disabled = "disabled" })
+<br />
+@Html.Label("Teklif İçeriği")
+@Html.TextAreaFor(x => x.MessageDetails, 20, 3, new { @class = "form-control", @disabled = "disabled" })
+<br />
+
+<a class="btn btn-gradient-success" href="/Message/Inbox/">Tekliflere Dön</a>

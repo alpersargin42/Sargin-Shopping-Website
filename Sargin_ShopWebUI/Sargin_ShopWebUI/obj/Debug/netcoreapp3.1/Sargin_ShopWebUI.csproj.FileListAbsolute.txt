@@ -1,0 +1,482 @@
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Sargin_ShopWebUI.exe
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Sargin_ShopWebUI.deps.json
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Sargin_ShopWebUI.runtimeconfig.json
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Sargin_ShopWebUI.runtimeconfig.dev.json
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Sargin_ShopWebUI.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Sargin_ShopWebUI.pdb
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Sargin_ShopWebUI.Views.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Sargin_ShopWebUI.Views.pdb
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.AssemblyInfo.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.RazorAssemblyInfo.cache
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.RazorAssemblyInfo.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\staticwebassets\Sargin_ShopWebUI.StaticWebAssets.Manifest.cache
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\staticwebassets\Sargin_ShopWebUI.StaticWebAssets.xml
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sargin_ShopWebUI.styles.css
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.TagHelpers.input.cache
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.TagHelpers.output.cache
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.RazorCoreGenerate.cache
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.RazorTargetAssemblyInfo.cache
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.RazorTargetAssemblyInfo.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.Views.pdb
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.csproj.CopyComplete
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.pdb
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.genruntimeconfig.cache
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Test.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\BussinessLayer.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\BussinessLayer.pdb
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\UserLayout.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\ProductC\Index.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial1.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial2.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial3.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\ProductC\ProductReadAll.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Comment\PartialAddComment.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Comment\CommentListByProduct.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CommentList\Default.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CommentListByProduct\Default.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AdvertiserLastProduct\Default.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\ErrorPage\Error1.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\About\SocialMediaAbout.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser\Index.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser\AdvertiserProfile.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser\AdvertiserMail.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AdvertiserLayout.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser\Test.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser\AdvertiserNavbarPartial.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser\AdvertiserFooterResult.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AdvertiserMessageNotification\Default.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AdvertiserNotification\Default.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\ProductC\ProductListByAdvertiser.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\ProductC\ProductAdd.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\ProductC\EditProduct.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ProductListDashboard\Default.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryListDashboard\Default.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser\AdvertiserEditProfile.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser\AdvertiserAdd.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Notification\AllNotification.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Message\InBox.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Message\MessageDetails.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminNavbarPartial.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category2\Index.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category2\CategoryAdd.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\ProductListExcel.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\ProductTitleListExcel.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Widget\Index.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Statistic1\Default.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Statistic2\Default.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Statistic4\Default.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Chart\Index.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser2\Index.cshtml.g.cs
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ProductAPIDemos3.1.deps.json
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ProductAPIDemos3.1.runtimeconfig.json
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ProductAPIDemos3.1.runtimeconfig.dev.json
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ProductAPIDemos3.1.exe
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ProductAPIDemos3.1.dll
+C:\Users\alper\Desktop\Core Project\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ProductAPIDemos3.1.pdb
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ProductAPIDemos3.1.deps.json
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ProductAPIDemos3.1.runtimeconfig.json
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ProductAPIDemos3.1.runtimeconfig.dev.json
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ProductAPIDemos3.1.exe
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Sargin_ShopWebUI.exe
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Sargin_ShopWebUI.deps.json
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Sargin_ShopWebUI.runtimeconfig.json
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Sargin_ShopWebUI.runtimeconfig.dev.json
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Sargin_ShopWebUI.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Sargin_ShopWebUI.pdb
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Sargin_ShopWebUI.Views.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Sargin_ShopWebUI.Views.pdb
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\BussinessLayer.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ProductAPIDemos3.1.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\BussinessLayer.pdb
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\ProductAPIDemos3.1.pdb
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.csproj.AssemblyReference.cache
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.AssemblyInfoInputs.cache
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.AssemblyInfo.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.csproj.CoreCompileInputs.cache
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.RazorAssemblyInfo.cache
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.RazorAssemblyInfo.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\staticwebassets\Sargin_ShopWebUI.StaticWebAssets.Manifest.cache
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\staticwebassets\Sargin_ShopWebUI.StaticWebAssets.xml
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sargin_ShopWebUI.styles.css
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.TagHelpers.input.cache
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.TagHelpers.output.cache
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.RazorCoreGenerate.cache
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\About\SocialMediaAbout.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminNavbarPartial.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser2\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser\AdvertiserAdd.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser\AdvertiserEditProfile.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser\AdvertiserFooterResult.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser\AdvertiserMail.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser\AdvertiserNavbarPartial.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser\AdvertiserProfile.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Advertiser\Test.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category2\CategoryAdd.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category2\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Chart\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Comment\CommentListByProduct.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Comment\PartialAddComment.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\ErrorPage\Error1.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Test.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Message\InBox.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Message\MessageDetails.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Notification\AllNotification.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\ProductC\EditProduct.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\ProductC\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\ProductC\ProductAdd.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\ProductC\ProductListByAdvertiser.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\ProductC\ProductReadAll.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\ProductListExcel.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\ProductTitleListExcel.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AdvertiserLayout.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AdvertiserLastProduct\Default.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AdvertiserMessageNotification\Default.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AdvertiserNotification\Default.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryListDashboard\Default.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CommentListByProduct\Default.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CommentList\Default.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ProductListDashboard\Default.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Statistic1\Default.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Statistic2\Default.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Statistic4\Default.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial1.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial2.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Partial3.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\UserLayout.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Widget\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.RazorTargetAssemblyInfo.cache
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.RazorTargetAssemblyInfo.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.Views.pdb
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.csproj.CopyComplete
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.pdb
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Sargin_ShopWebUI.genruntimeconfig.cache
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\EmployeeTestController1\AddEmployee.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\EmployeeTestController1\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\EmployeeTestController1\EdittEmployee.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\RegisterUser\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Message\SendMessage.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Message\SendBox.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Message\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\AdminProduct\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\AdminRol\Index.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\AdminRol\AddRole.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\AdminRol\RoleDelete.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\AdminRol\UserRoleList.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\AdminRol\AssignRole.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\ProductC\Offer.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\ProductC\Kategorili.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\ProductC\SuccessSend.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\ProductC\SuccessSold.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\ProductC\FailSold.cshtml.g.cs
+C:\Users\alper\Documents\GitHub\primefor-2022-staj-alpersargin42\Sargin_ShopWebUI\Sargin_ShopWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Message\MessageDetails2.cshtml.g.cs
